@@ -223,6 +223,14 @@ The analysis suggests that:
 - Business Insight Generation
 
 ---
+# Presentation
+
+Watch the project presentation on YouTube:
+
+🎥 **Customer Churn Prediction Using Machine Learning**
+[https://youtu.be/your-video-link](https://www.youtube.com/watch?v=dECeWE9CCCw&feature=youtu.be)
+
+---
 
 # Author
 
