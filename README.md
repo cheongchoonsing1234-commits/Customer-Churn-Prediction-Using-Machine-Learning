@@ -169,7 +169,7 @@ SHAP analysis helped transform machine learning predictions into meaningful busi
 
 ## Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+
 
 ## Mutli-Model Performance Summary
 
