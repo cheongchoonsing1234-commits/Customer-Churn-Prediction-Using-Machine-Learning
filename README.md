@@ -153,7 +153,7 @@ SHAP (SHapley Additive exPlanations) was applied to interpret the Random Forest 
 
 ## SHAP Feature Importance
 
-![SHAP Feature Importance](shap_feature_importance.png)
+![SHAP Feature Importance](shap_feature_importance_bar_plot.png)
 
 The SHAP feature importance bar plot ranks features based on their average impact on model predictions. Engagement Score, Days Since Last Purchase, and Customer Satisfaction Score were identified as the most influential variables.
 
