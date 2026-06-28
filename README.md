@@ -165,11 +165,15 @@ SHAP analysis helped transform machine learning predictions into meaningful busi
 
 ---
 
-# Champion Model Performance
+# Model Performance Comparison
 
 ## Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
+
+## Mutli-Model Performance Summary
+
+![Mutli-Model_Performance_Summary](multi-model_performance_summary.png)
 
 ## ROC Curve
 
