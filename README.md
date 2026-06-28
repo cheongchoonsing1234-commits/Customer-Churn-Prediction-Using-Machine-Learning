@@ -36,7 +36,6 @@ This project aims to:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- SHAP
 
 **Techniques**
 - Data Cleaning
