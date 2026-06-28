@@ -149,7 +149,23 @@ Performance:
 
 # Explainable AI Using SHAP
 
-SHAP analysis was applied to explain model predictions and identify the most influential factors affecting customer churn.
+SHAP (SHapley Additive exPlanations) was applied to interpret the Random Forest model by identifying the most influential features affecting customer churn predictions.
+
+## SHAP Feature Importance
+
+![SHAP Feature Importance](shap_feature_importance.png)
+
+The SHAP feature importance bar plot ranks features based on their average impact on model predictions. Engagement Score, Days Since Last Purchase, and Customer Satisfaction Score were identified as the most influential variables.
+
+---
+
+## SHAP Summary Plot
+
+![SHAP Summary Plot](shap_summary_plot.png)
+
+The SHAP summary plot illustrates both the importance and direction of each feature's influence on churn predictions. Features with higher SHAP values have a greater impact on the model's output, while the colour distribution indicates whether high or low feature values increase the likelihood of customer churn.
+
+---
 
 ## Key Churn Drivers
 
