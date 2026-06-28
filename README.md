@@ -169,11 +169,11 @@ SHAP analysis helped transform machine learning predictions into meaningful busi
 
 ## Confusion Matrix
 
-![Confusion Matrix](Images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## ROC Curve
 
-![ROC Curve](Images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ---
 # Business Insights
