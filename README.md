@@ -173,9 +173,6 @@ The most important features identified were:
 
 1. Engagement Score
 2. Days Since Last Purchase
-3. Customer Satisfaction Score
-4. Customer Support Tickets
-5. Browsing Frequency
 
 SHAP analysis helped transform machine learning predictions into meaningful business insights.
 
